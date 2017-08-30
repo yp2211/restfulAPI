@@ -1,0 +1,105 @@
+package com.yp36.common.redis.impl;
+
+import com.yp36.common.redis.RedisDataSource;
+import com.yp36.common.redis.vo.RedisCommon;
+import com.yp36.common.redis.vo.RedisNodeInfo;
+
+import lombok.Getter;
+import lombok.Setter;
+import lombok.extern.slf4j.Slf4j;
+import redis.clients.jedis.JedisPoolConfig;
+import redis.clients.jedis.JedisShardInfo;
+import redis.clients.jedis.ShardedJedis;
+import redis.clients.jedis.ShardedJedisPool;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+/**
+ * Created by yangpeng on 2017/1/12.
+ */
+@Slf4j
+@Getter
+@Setter
+public class RedisDataSourceImpl implements RedisDataSource {
+
+    JedisPoolConfig jedisPoolConfig;
+
+    private ShardedJedisPool shardedJedisPool;
+
+    private String host;
+
+    public ShardedJedis getRedisClient() throws Exception {
+        if (null == shardedJedisPool) {
+            initShardJedisPool();
+        }
+        try {
+            ShardedJedis shardJedis = shardedJedisPool.getResource();
+            return shardJedis;
+        } catch (Exception e) {
+            log.error("RedisDataSourceImpl getRedisClient error", e);
+        }
+        return null;
+    }
+
+    /**
+     *
+     */
+    public void initShardJedisPool() throws Exception {
+        log.info("*****************************Redis pool initialization start******************************");
+        List<JedisShardInfo> masterShardInfos = initMasterShardInfos(host);
+        this.shardedJedisPool = new ShardedJedisPool(jedisPoolConfig, masterShardInfos);
+        log.info("*****************************Redis pool initialization end******************************");
+    }
+
+    /**
+     *
+     *
+     * @param host
+     * @return
+     */
+    private List<JedisShardInfo> initMasterShardInfos(String host) throws Exception {
+        if (null == host) {
+            log.error(RedisCommon.CONF_ERROR);
+            return null;
+        }
+        JedisShardInfo jedisShardInfo;
+        RedisNodeInfo nodeInfo;
+        List<JedisShardInfo> shardInfos = new ArrayList<JedisShardInfo>();
+        List<String> master_slave_list = Arrays.asList(host.split(RedisCommon.SHARD_HOST_SEPARATOR));
+        for (String master_slave_item : master_slave_list) {
+            nodeInfo = parseHost(master_slave_item);
+            if (null == nodeInfo) {
+                throw new Exception(RedisCommon.CONF_ERROR);
+            }
+            jedisShardInfo = new JedisShardInfo(nodeInfo.getIp(), nodeInfo.getPort(), nodeInfo.getTimeout());
+            shardInfos.add(jedisShardInfo);
+            log.info("*****************************host:".concat(jedisShardInfo.getHost()));
+            log.info("*****************************port:".concat(String.valueOf(jedisShardInfo.getPort())));
+            log.info("*****************************connection timeout:".concat(String.valueOf(jedisShardInfo.getConnectionTimeout())));
+            log.info("*****************************weight:".concat(String.valueOf(jedisShardInfo.getWeight())));
+        }
+        return shardInfos;
+    }
+
+    /**
+     *
+     *
+     * @param master_slave_item
+     * @return
+     */
+    private RedisNodeInfo parseHost(String master_slave_item) {
+        try {
+            String[] host_infos = master_slave_item.split(RedisCommon.MASTER_SLAVE_SEPARATOR);
+            String[] split_items = host_infos[0].split(RedisCommon.COMMON_SEPARATOR);
+            String ip = split_items[0];
+            int port = Integer.valueOf(split_items[1]);
+            int timeout = Integer.valueOf(host_infos[2]);
+            return new RedisNodeInfo(ip, port, timeout);
+        } catch (Exception e) {
+            log.error(RedisCommon.CONF_ERROR, e);
+        }
+        return null;
+    }
+}

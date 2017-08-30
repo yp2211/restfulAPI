@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1504077431966_1" label="yp36" name="yp36">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/platform" type="4"/>
+<item elementID="=common" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=services" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=api" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1504077311134_0" label="ウィンドウ・ワーキング・セット" name="Aggregate for window 1504077311134"/>
+</workingSetManager>

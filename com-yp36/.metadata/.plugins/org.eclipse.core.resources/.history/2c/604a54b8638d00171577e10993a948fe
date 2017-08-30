@@ -1,0 +1,74 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com-yp36</groupId>
+    <artifactId>platform</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>common</artifactId>
+  <name>com-yp36-common</name>
+  <packaging>jar</packaging>
+
+  <dependencies>
+    <!-- spring -->
+    <dependency>
+	    <groupId>org.springframework</groupId>
+	    <artifactId>spring-context</artifactId>
+	</dependency>
+	<dependency>
+	    <groupId>org.springframework</groupId>
+	    <artifactId>spring-webmvc</artifactId>
+	</dependency>
+
+    <!--httpClient -->
+    <dependency>
+        <groupId>org.apache.httpcomponents</groupId>
+        <artifactId>httpclient</artifactId>
+    </dependency>
+
+    <!-- Apache POI -->
+    <dependency>
+        <groupId>org.jxls</groupId>
+        <artifactId>jxls</artifactId>
+        <version>${org-jxls-version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.jxls</groupId>
+        <artifactId>jxls-poi</artifactId>
+        <version>${jxls-poi-version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.jxls</groupId>
+        <artifactId>jxls-jexcel</artifactId>
+        <version>${jxls-jexcel-version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.jxls</groupId>
+        <artifactId>jxls-reader</artifactId>
+        <version>${jxls-reader-version}</version>
+    </dependency>
+    <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>javax.servlet-api</artifactId>
+        <version>${servlet-api-version}</version>
+    </dependency>
+
+    <!--lom bok-->
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+    </dependency>
+
+    <!-- JSON -->
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-core</artifactId>
+    </dependency>
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+    </dependency>
+
+  </dependencies>
+
+</project>

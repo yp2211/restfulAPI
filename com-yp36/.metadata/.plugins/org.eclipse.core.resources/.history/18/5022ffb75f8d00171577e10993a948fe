@@ -1,0 +1,40 @@
+/**
+ *
+ */
+package com.yp36.api.ai;
+
+import org.apache.commons.beanutils.BeanUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiParam;
+
+/**
+ * @author yangpeng
+ *
+ */
+@Controller
+@RequestMapping("/speech")
+public class Hello {
+
+    @RequestMapping(value = "/stt", method = RequestMethod.GET)
+    @ResponseBody
+    @ApiOperation(value = "API Speech to Text")
+	public BaseHttpResponse<String> syncRecognize(
+			@ApiParam(value = "Project ID", required = true)
+			@PathVariable("id") Long id
+			)  throws Exception {
+
+        BaseHttpResponse response = new BaseHttpResponse();
+        ProjectEntity project = new ProjectEntity();
+        BeanUtils.copyProperties(project, projectService.selectByPrimaryKey(id));
+        response.setData(project);
+        return response;
+    }
+}

@@ -1,0 +1,874 @@
+2017-08-30 16:15:15,406 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-30 16:18:04,652 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\workspace\com-yp36\com-yp36-platform\pom.xml
+2017-08-30 16:18:10,205 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:com-yp36-platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\com-yp36-platform\pom.xml.
+2017-08-30 16:18:12,381 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com-yp36-platform/src/main/java
+2017-08-30 16:18:12,403 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com-yp36-platform/src/test/java
+2017-08-30 16:18:15,000 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2017-08-30 16:18:16,531 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:18:16,532 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\com-yp36-platform\src\main\resources
+2017-08-30 16:18:16,542 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:18:16,572 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\com-yp36-platform\src\test\resources
+2017-08-30 16:18:37,378 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:18:37,384 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\com-yp36-platform\src\main\resources
+2017-08-30 16:18:37,392 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:18:37,393 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\com-yp36-platform\src\test\resources
+2017-08-30 16:19:20,447 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\workspace\com-yp36\common\pom.xml
+2017-08-30 16:19:21,366 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\common\pom.xml.
+2017-08-30 16:19:22,266 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2017-08-30 16:19:22,288 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2017-08-30 16:19:22,585 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-08-30 16:19:22,942 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:19:22,943 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\common\src\main\resources
+2017-08-30 16:19:22,946 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:19:22,946 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\common\src\test\resources
+2017-08-30 16:20:21,756 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\workspace\com-yp36\service\pom.xml
+2017-08-30 16:20:21,942 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:service:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\service\pom.xml.
+2017-08-30 16:20:22,293 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service/src/main/java
+2017-08-30 16:20:22,309 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service/src/test/java
+2017-08-30 16:20:22,480 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-08-30 16:20:22,848 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:20:22,848 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\service\src\main\resources
+2017-08-30 16:20:22,850 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:20:22,850 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\service\src\test\resources
+2017-08-30 16:20:37,964 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\workspace\com-yp36\api\pom.xml
+2017-08-30 16:20:38,289 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\api\pom.xml.
+2017-08-30 16:20:38,655 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2017-08-30 16:20:38,676 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2017-08-30 16:20:38,906 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-08-30 16:20:39,271 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:20:39,280 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 16:20:39,282 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:20:39,282 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 16:21:01,433 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:21:01,433 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 16:21:01,434 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:21:01,436 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 16:21:01,464 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:21:01,464 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\common\src\main\resources
+2017-08-30 16:21:01,468 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:21:01,469 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\common\src\test\resources
+2017-08-30 16:21:01,482 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:21:01,484 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\service\src\main\resources
+2017-08-30 16:21:01,486 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 16:21:01,487 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\service\src\test\resources
+2017-08-30 17:08:37,604 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-30 17:08:51,823 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\api\pom.xml.
+2017-08-30 17:08:54,808 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:08:54,808 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 17:08:54,812 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:08:54,812 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 17:08:54,838 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 17:08:54,839 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 17:08:54,915 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:08:56,641 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:08:56,677 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 17:08:56,679 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:08:56,680 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 17:09:18,943 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\api
+2017-08-30 17:09:18,944 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 17:09:23,827 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:09:23,828 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 17:09:23,830 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:09:23,831 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 17:10:03,311 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\api
+2017-08-30 17:10:03,313 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-08-30 17:10:06,430 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:10:06,432 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 17:10:06,434 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:10:06,434 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 17:10:06,435 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 17:10:06,435 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 17:10:06,480 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:10:10,967 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\api
+2017-08-30 17:10:10,967 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 17:10:15,614 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:10:15,623 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\main\resources
+2017-08-30 17:10:15,624 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 17:10:15,625 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 17:14:14,232 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar のダウンロード中
+2017-08-30 17:14:14,486 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2017-08-30 17:14:14,679 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom のダウンロード中
+2017-08-30 17:14:14,865 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2017-08-30 17:14:29,443 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\workspace\com-yp36\api\pom.xml
+2017-08-30 17:14:30,627 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\api\pom.xml.
+2017-08-30 17:14:31,983 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2017-08-30 17:14:31,983 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2017-08-30 17:14:31,984 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2017-08-30 17:14:35,581 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2017-08-30 17:14:39,752 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:14:39,804 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:14:39,835 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:14:39,839 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\api\src\test\resources
+2017-08-30 17:17:28,878 [Worker-2] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.0.v20160503-1608.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'dependencies' (position: START_TAG seen ...</dependencies>\r\n\r\n  <dependencies>... @19:17) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'dependencies' (position: START_TAG seen ...</dependencies>\r\n\r\n  <dependencies>... @19:17) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:140) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2227) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	... 26 common frames omitted
+2017-08-30 17:17:42,894 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:42,899 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:42,903 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:42,908 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,280 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,284 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,288 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,293 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,937 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\api\pom.xml.
+2017-08-30 17:17:43,941 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,945 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,949 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:43,953 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:44,974 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 17:17:44,974 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 17:17:45,310 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:45,315 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:45,319 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:17:45,323 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:18:32,627 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-plugin/1.2/maven-archetype-plugin-1.2.jar のダウンロード中
+2017-08-30 17:18:32,837 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-plugin/1.2/maven-archetype-plugin-1.2.jar
+2017-08-30 17:18:33,047 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-plugin/1.2/maven-archetype-plugin-1.2.pom のダウンロード中
+2017-08-30 17:18:33,236 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-plugin/1.2/maven-archetype-plugin-1.2.pom
+2017-08-30 17:19:28,651 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\api\pom.xml.
+2017-08-30 17:21:03,761 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\pom.xml.
+2017-08-30 17:21:36,348 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\pom.xml.
+2017-08-30 17:21:45,243 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform
+2017-08-30 17:21:45,243 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-08-30 17:21:55,418 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform
+2017-08-30 17:21:55,418 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 17:22:58,279 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 17:22:59,268 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2017-08-30 17:22:59,269 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /common/src/main/resources
+2017-08-30 17:22:59,270 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2017-08-30 17:22:59,270 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /common/src/test/resources
+2017-08-30 17:22:59,909 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:22:59,934 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:22:59,938 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:22:59,942 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:23:01,273 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\pom.xml.
+2017-08-30 17:23:01,917 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 17:23:03,909 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:23:03,935 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:23:03,938 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:23:03,942 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:24:03,277 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:services:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\services\pom.xml.
+2017-08-30 17:24:05,655 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /services/src/main/java
+2017-08-30 17:24:05,655 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /services/src/main/resources
+2017-08-30 17:24:05,656 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /services/src/test/java
+2017-08-30 17:24:05,657 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /services/src/test/resources
+2017-08-30 17:24:06,142 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:24:06,152 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:24:06,153 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:24:06,157 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:24:07,318 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\pom.xml.
+2017-08-30 17:24:08,081 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 17:24:08,152 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:services:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\services\pom.xml.
+2017-08-30 17:24:09,018 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:24:09,025 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:24:09,028 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:24:09,031 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:24:10,057 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:24:10,061 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:24:10,062 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:24:10,066 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:33,039 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 17:26:33,977 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2017-08-30 17:26:33,977 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2017-08-30 17:26:33,978 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2017-08-30 17:26:33,978 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/test/resources
+2017-08-30 17:26:36,978 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:37,012 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:37,014 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:37,018 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:38,532 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\pom.xml.
+2017-08-30 17:26:39,715 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:services:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\services\pom.xml.
+2017-08-30 17:26:39,829 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 17:26:39,974 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 17:26:42,653 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:42,672 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:42,676 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:42,685 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:42,766 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:42,803 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:42,805 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:42,813 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:42,842 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:42,923 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:26:42,925 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:26:42,932 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:28:46,257 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\workspace\com-yp36\platform\api\pom.xml
+2017-08-30 17:28:46,398 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 17:28:47,343 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/main/java
+2017-08-30 17:28:47,343 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api/src/main/resources
+2017-08-30 17:28:47,344 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api/src/test/java
+2017-08-30 17:28:48,736 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-08-30 17:28:49,272 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:28:49,276 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:28:49,278 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:28:49,281 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:29:07,068 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:29:07,075 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:29:07,083 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:29:07,087 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:29:43,365 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 17:29:44,509 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:29:44,512 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:29:44,514 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:29:44,517 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:29:44,520 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 17:29:44,520 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 17:29:44,528 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:31:29,880 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 17:31:29,947 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:31:29,950 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:31:29,951 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:31:29,954 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:31:37,024 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:services:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\services\pom.xml.
+2017-08-30 17:31:37,090 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:31:37,093 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:31:37,094 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:31:37,097 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:33:15,990 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:33:15,995 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:33:16,035 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:33:16,038 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:34:22,167 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:34:22,174 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:34:22,184 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:34:22,188 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:36:47,564 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:36:47,569 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:36:47,580 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:36:47,584 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:37:03,345 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:03,349 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:37:03,357 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:03,361 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:37:09,614 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:09,617 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:37:09,622 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:09,625 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:37:13,487 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:13,491 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:37:13,497 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:13,501 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:37:21,460 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:21,468 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:37:21,482 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:21,487 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:37:26,352 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:26,356 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:37:26,363 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:37:26,366 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:38:18,235 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:38:18,240 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:38:18,250 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:38:18,253 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:38:26,602 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:38:26,605 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:38:26,620 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:38:26,630 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:38:35,875 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:38:35,877 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:38:35,883 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:38:35,886 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:46:09,650 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:46:09,654 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:46:09,664 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:46:09,667 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:46:30,862 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:46:30,866 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:46:30,872 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:46:30,875 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:47:38,573 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform\api
+2017-08-30 17:47:38,573 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 17:47:44,347 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:47:44,351 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:47:44,352 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:47:44,355 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:48:12,417 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:48:12,422 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 17:48:12,435 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:48:12,438 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:49:42,305 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:49:42,310 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:49:42,313 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:49:42,316 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:49:54,579 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:49:54,583 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:49:54,584 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:49:54,588 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 17:53:34,283 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 17:53:34,285 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:34,288 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:34,291 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:34,294 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:35,036 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:35,045 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:35,051 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:35,055 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:53:36,171 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 17:53:36,171 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 17:56:59,178 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:56:59,181 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:56:59,186 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:56:59,190 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:26,924 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com-yp36:platform:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\pom.xml.
+2017-08-30 17:59:27,659 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 17:59:27,714 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:services:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\services\pom.xml.
+2017-08-30 17:59:27,775 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 17:59:27,777 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:27,781 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:27,784 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:27,788 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:28,130 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:28,135 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:28,138 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:28,142 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:30,540 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:30,544 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:30,546 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:30,549 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 17:59:31,237 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:59:31,243 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:59:31,245 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:59:31,248 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:59:31,269 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:59:31,272 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 17:59:31,274 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 17:59:31,277 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:00:25,045 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:00:25,046 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,049 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,052 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,055 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,303 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,306 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,309 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:25,312 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:26,134 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:00:26,137 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:00:26,139 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:00:26,142 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:00:26,142 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 18:00:26,142 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 18:00:26,147 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:00:56,193 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-yp36-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,198 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,201 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,205 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,454 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:00:56,455 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-yp36-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,459 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,463 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,466 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,679 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-yp36-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,683 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,687 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:56,690 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:00:57,628 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:00:57,631 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:00:57,632 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:00:57,634 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:00:57,635 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 18:00:57,635 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 18:00:57,641 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:04,207 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:04,218 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:04,223 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:04,556 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:01:04,561 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:04,574 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:04,577 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:05,388 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-service:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:05,413 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:05,417 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:06,626 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:06,629 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:06,630 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:06,633 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:01:06,633 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 18:01:06,633 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 18:01:06,639 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:06,859 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:06,863 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:06,864 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:06,868 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:12,823 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:12,859 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:13,063 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:01:13,070 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:13,074 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:13,707 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:13,711 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com-yp36:com-agri-cf-entity:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-08-30 18:01:14,641 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:14,645 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:14,647 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:14,652 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:01:14,652 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 18:01:14,653 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 18:01:14,660 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:14,861 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:14,866 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:14,866 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:14,869 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:29,983 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:01:31,163 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:31,165 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:01:31,166 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:31,168 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:01:31,168 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of api
+2017-08-30 18:01:31,168 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for api
+2017-08-30 18:01:31,173 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:32,876 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:32,882 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:01:32,904 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:01:32,908 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:02:36,416 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:02:36,449 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:02:36,524 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:02:36,531 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:02:37,043 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:02:37,052 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:02:37,064 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:02:37,068 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:03:39,133 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:03:39,137 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:03:39,140 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:03:39,144 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:03:39,353 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:03:39,357 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:03:39,359 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:03:39,362 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:03:59,352 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:03:59,360 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:03:59,364 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:03:59,368 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:04:07,708 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:07,720 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:04:07,725 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:07,729 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:04:15,222 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:15,227 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:04:15,231 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:15,235 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:04:35,880 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:35,883 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:04:35,886 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:35,889 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:04:45,533 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:45,536 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:04:45,538 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:04:45,541 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:05:16,788 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:05:16,791 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:05:16,808 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:05:16,811 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:05:23,871 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:05:23,899 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:05:23,917 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:05:23,924 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:06,156 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:06,176 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:06:06,242 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:06,245 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:25,033 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:06:25,104 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:25,107 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:25,108 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:25,112 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:47,811 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:06:47,884 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:06:48,998 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:49,002 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:49,003 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:49,009 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:50,474 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:50,490 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:06:50,519 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:50,523 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:50,891 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:50,894 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:06:50,895 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:06:50,899 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:07:25,019 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:25,038 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:07:25,042 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:25,062 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:07:36,875 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:36,879 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:07:36,882 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:36,896 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:07:41,350 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:41,354 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:07:41,357 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:41,360 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:07:53,703 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:53,718 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:07:53,720 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:07:53,724 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:09,530 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:08:09,664 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:08:10,447 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:10,451 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:10,452 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:10,455 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:11,973 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:11,977 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:08:12,002 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:12,005 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:12,494 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:12,497 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:12,498 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:12,501 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:08:41,250 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:08:41,339 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:08:41,955 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:41,959 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:41,960 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:41,963 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:42,664 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:42,668 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:42,669 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:42,671 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:08:43,407 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:43,411 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:08:43,483 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:43,486 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:08:51,680 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:51,691 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:08:51,695 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:08:51,700 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:11:23,198 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:11:23,450 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:11:24,892 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:11:24,896 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:11:24,897 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:11:24,900 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:11:26,691 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:11:27,412 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:11:27,418 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:11:27,448 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:11:27,452 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:11:28,292 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:11:28,303 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:11:28,317 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:11:28,320 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:12:36,555 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:12:36,686 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:12:38,171 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:38,174 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:12:38,174 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:38,177 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:12:38,660 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:38,662 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:12:38,663 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:38,666 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:12:40,680 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:40,694 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:12:40,750 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:40,761 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:12:46,468 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:46,472 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:12:46,476 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:46,479 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:12:54,271 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:54,274 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:12:54,276 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:12:54,279 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:13:01,742 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:13:01,745 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:13:01,747 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:13:01,750 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:13:11,019 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:13:11,025 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:13:11,029 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:13:11,032 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:13:19,925 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:13:19,929 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:13:19,932 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:13:19,938 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:14:11,794 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:14:12,304 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:14:14,428 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:14,432 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:14:14,433 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:14,436 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:14:16,818 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:16,825 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:14:16,855 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:16,859 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:14:17,763 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:17,781 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:14:17,810 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:17,826 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:14:28,274 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:28,283 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:14:28,286 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:28,289 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:14:33,380 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:33,399 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:14:33,403 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:33,406 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:14:40,929 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:40,945 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:14:40,948 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:14:40,954 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:09,434 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:15:09,816 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:15:11,088 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:11,091 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:11,092 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:11,097 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:12,473 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:12,476 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:15:12,494 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:12,496 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:13,126 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:13,143 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:15:13,179 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:13,182 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:15:15,374 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:15:15,688 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:15,691 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:15,692 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:15,694 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:23,724 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:23,728 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:15:23,730 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:23,732 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:30,831 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:30,834 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:15:30,836 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:30,839 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:42,813 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:42,819 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:15:42,822 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:42,824 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:15:54,076 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:54,080 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:15:54,082 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:15:54,084 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:16:17,470 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:17,475 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:16:17,478 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:17,481 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:16:41,713 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:41,716 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:16:41,718 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:41,720 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:16:46,848 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:46,852 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:16:46,854 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:46,857 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:16:56,537 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:56,544 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:16:56,548 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:16:56,553 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:17:02,779 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:02,783 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:17:02,786 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:02,789 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:17:19,961 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:19,964 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:17:19,966 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:19,969 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:17:28,086 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:28,089 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:17:28,092 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:28,094 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:17:34,061 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:34,071 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:17:34,079 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:34,087 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:17:40,497 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:40,509 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:17:40,513 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:17:40,519 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:18:47,612 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:18:47,615 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:18:47,617 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:18:47,619 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:18:54,482 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:18:54,485 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:18:54,487 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:18:54,489 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:18:59,248 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:18:59,251 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:18:59,254 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:18:59,257 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:04,783 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:04,789 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:04,792 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:04,795 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:10,485 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:10,502 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:10,505 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:10,509 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:15,341 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:15,344 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:15,347 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:15,350 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:22,795 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:22,799 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:22,802 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:22,805 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:30,620 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:30,623 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:30,625 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:30,628 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:37,116 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:37,119 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:37,121 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:37,124 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:42,967 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:42,970 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:42,972 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:42,974 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:19:47,894 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:47,897 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:19:47,899 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:19:47,902 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:20:10,607 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:20:10,611 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:20:10,614 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:20:10,617 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:20:16,690 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:20:16,693 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:20:16,695 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:20:16,698 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:21:40,203 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:21:42,988 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:api:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\api\pom.xml.
+2017-08-30 18:21:44,024 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:44,027 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:21:44,028 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:44,030 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:21:45,852 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:45,859 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:21:45,901 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:45,905 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:21:46,503 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:46,506 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:21:46,518 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:46,521 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:21:48,087 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com-yp36:common:0.0.1-SNAPSHOT @ D:\java\workspace\com-yp36\platform\common\pom.xml.
+2017-08-30 18:21:48,799 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:48,803 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:21:48,804 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:21:48,826 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:22:01,530 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:22:01,538 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:22:01,541 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:22:01,544 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:22:15,015 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform\common
+2017-08-30 18:22:15,015 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 18:22:27,121 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:22:27,126 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 18:22:27,129 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:22:27,132 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:22:51,437 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:22:51,441 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:22:51,442 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:22:51,445 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:23:34,137 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:23:34,140 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:23:34,141 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:23:34,145 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:23:36,794 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:23:36,796 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:23:36,798 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:23:36,800 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:23:47,214 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:23:47,218 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:23:47,219 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:23:47,222 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:24:11,598 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:24:11,602 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:24:11,603 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:24:11,607 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:24:22,757 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:24:22,760 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:24:22,762 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:24:22,764 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:24:34,608 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:24:34,612 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:24:34,614 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:24:34,626 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:25:00,884 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:00,887 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:25:00,889 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:00,891 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:25:10,034 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:10,037 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:25:10,038 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:10,040 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:25:19,502 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:19,509 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:25:19,510 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:19,518 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:25:24,951 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:24,954 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:25:24,955 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:24,958 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:25:34,820 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:34,822 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:25:34,824 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:25:34,826 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:26:11,962 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:26:11,965 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:26:11,973 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:26:11,976 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:26:27,110 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:26:27,112 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:26:27,118 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:26:27,120 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:26:35,264 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:26:35,267 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:26:35,271 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:26:35,274 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
+2017-08-30 18:26:58,762 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform\api
+2017-08-30 18:26:58,762 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 18:27:23,882 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform\services
+2017-08-30 18:27:23,882 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 18:27:28,796 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:27:28,801 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:27:28,802 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:27:28,806 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 18:27:34,639 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\java\workspace\com-yp36\platform\api
+2017-08-30 18:27:34,639 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-30 18:27:48,191 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:27:48,194 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 18:27:48,196 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 18:27:48,198 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\workspace\com-yp36\platform\api\src\test\resources
