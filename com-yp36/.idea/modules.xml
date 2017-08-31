@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/platform/api/api.iml" filepath="$PROJECT_DIR$/platform/api/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/com-yp36.iml" filepath="$PROJECT_DIR$/.idea/com-yp36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/common/common.iml" filepath="$PROJECT_DIR$/platform/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/dao/dao.iml" filepath="$PROJECT_DIR$/platform/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/services/services.iml" filepath="$PROJECT_DIR$/platform/services/services.iml" />
     </modules>
   </component>
 </project>

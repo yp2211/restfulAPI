@@ -1,0 +1,8 @@
+com\yp36\dao\datasource\DataSource.class
+com\yp36\dao\model\BaseModel.class
+com\yp36\dao\datasource\DynamicDataSourceAspect.class
+com\yp36\dao\datasource\DatasourceHold.class
+com\yp36\dao\datasource\DynamicDataSource.class
+com\yp36\dao\model\Project.class
+com\yp36\dao\model\FilterFactor.class
+com\yp36\dao\model\User.class

@@ -1,5 +1,6 @@
 package com.yp36.api.controller;
 
+import com.yp36.common.http.vo.HttpCommons;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -15,10 +16,9 @@ public class Hello {
     @ResponseBody
 	public BaseHttpResponse<String> selectAllFactor() {
         BaseHttpResponse response = new BaseHttpResponse();
-        //response.setCount(1);
-        //if (response.getCount() != 0)
-        response.setData("Hello agri. ");
-        response.setStatus(200);
+        response.setCount(0);
+        response.setData("Hello !");
+        response.setStatus(HttpCommons.SUCCESS);
         return response;
     }
 }

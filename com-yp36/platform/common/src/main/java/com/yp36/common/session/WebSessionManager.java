@@ -1,6 +1,6 @@
 package com.yp36.common.session;
 
-import com.yp36.common.redis.AgricfRedisClient;
+import com.yp36.common.redis.Yp36RedisClient;
 import com.yp36.common.redis.exception.RedisAccessException;
 import com.yp36.common.util.BeanUtil;
 import com.yp36.common.util.JsonUtil;
@@ -22,7 +22,7 @@ import java.io.IOException;
 public class WebSessionManager {
     private static final int DEFAULT_SESSION_TIME_OUT = 12 * 60 * 60;
     private static WebSessionManager instance = new WebSessionManager();
-    private AgricfRedisClient accfRedisClient = (AgricfRedisClient) BeanUtil.getBean("agricfRedisClient");
+    private Yp36RedisClient accfRedisClient = (Yp36RedisClient) BeanUtil.getBean("yp36RedisClient");
 
     /**
      * @return

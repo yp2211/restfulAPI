@@ -16,12 +16,12 @@
         <property name="testOnReturn" value="${redis.pool.testOnReturn}"/>
     </bean>
 
-    <bean id="redisDataSource" class="com.agri.cf.common.redis.impl.RedisDataSourceImpl">
+    <bean id="redisDataSource" class="com.yp36.common.redis.impl.RedisDataSourceImpl">
         <property name="host" value="${redis.host}"></property>
         <property name="jedisPoolConfig" ref="jedisPoolConfig"></property>
     </bean>
 
-    <bean id="agricfRedisClient" class="com.agri.cf.common.redis.impl.AgricfRedisClientImpl">
+    <bean id="yp36RedisClient" class="com.yp36.common.redis.impl.Yp36RedisClientImpl">
         <property name="redisDataSource" ref="redisDataSource"></property>
     </bean>
 

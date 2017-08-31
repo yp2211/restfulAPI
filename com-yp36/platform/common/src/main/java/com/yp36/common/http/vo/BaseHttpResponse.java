@@ -13,8 +13,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Getter;
 import lombok.Setter;
 
-import com.yp36.common.http.vo.HttpCommons;
-
 /**
  * @author yangpeng
  *
@@ -50,5 +48,4 @@ public class BaseHttpResponse<D> implements Serializable {
         }
         return null;
     }
-
 }

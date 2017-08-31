@@ -9,7 +9,7 @@
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd http://www.springframework.org/schema/cache http://www.springframework.org/schema/cache/spring-cache.xsd">
 
-    <bean id="zookeeperHandler" class="com.agri.cf.common.zookeeper.ZookeeperHandler">
+    <bean id="zookeeperHandler" class="com.yp36.common.zookeeper.ZookeeperHandler">
         <property name="zookeeperConnectionString" value="127.0.0.1:2181"></property>
         <property name="interval" value="1000"></property>
         <property name="retryTime" value="3"></property>
