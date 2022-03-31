@@ -7,7 +7,7 @@
   <name>com-yp36-platform</name>
 
     <properties>
-        <spring-framework-version>4.3.5.RELEASE</spring-framework-version>
+        <spring-framework-version>5.3.18</spring-framework-version>
         <spring-security-version>4.2.3.RELEASE</spring-security-version>
         <slf4j-version>1.7.22</slf4j-version>
         <logback-version>1.1.8</logback-version>
